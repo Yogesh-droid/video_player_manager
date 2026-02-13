@@ -1,7 +1,8 @@
 name: video_player_manager
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+repository: https://github.com/Yogesh-droid/video_player_manager
+issue_tracker: https://github.com/Yogesh-droid/video_player_manager/issues
 
 environment:
   sdk: ^3.10.7
