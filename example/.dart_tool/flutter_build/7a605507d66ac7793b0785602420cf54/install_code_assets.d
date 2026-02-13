@@ -1,0 +1,1 @@
+ /Users/yogeshkumar/AndroidStudioProjects/video_player_manager/example/.dart_tool/flutter_build/7a605507d66ac7793b0785602420cf54/native_assets.json: 
